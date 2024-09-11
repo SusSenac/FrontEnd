@@ -1,0 +1,25 @@
+body{ 
+    background-color: black ;
+    color: aliceblue;
+}
+h1 {
+    color: rgb(5, 51, 160); /* tudo que tiver a etiqueta (tag) h1 vai ter esta cor */ 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ /* muda a fonte*/
+}
+button{
+    color:blue;  
+}
+
+button {
+    background-color: aqua; /* troca o fundo*/
+}
+
+    img{
+        width: 400px; /* significa largura*/
+        height: auto; /* em inglês significa altura*/
+    }
+
+    a{
+        color:antiquewhite
+    }
