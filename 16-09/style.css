@@ -1,0 +1,35 @@
+body{
+    font: normal 1em Arial, Helvetica, sans-serit;
+}
+
+h1{
+    font-size:  7em;
+    color: brown;
+}
+
+h2{
+    color: crimson;
+}
+
+#titulo-principal {
+    background-color:rgb(243, 94, 40);
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+#titulo-principal:hover
+
+
+
+.topico {
+    text-align:right;
+}
+
+.texto {
+    text-align: justify;
+}
+
+
+
+
+
