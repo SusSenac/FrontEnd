@@ -1,0 +1,15 @@
+body{
+    font: normal 1em Arial, Helvetica, sans-serit;
+}
+
+#caixa-unica {
+    background-color: cornflowerblue;
+    width: 17em;
+    height: 14em;
+}
+
+.caixa {
+    background-color: orangered;
+    width: 12em;
+    height: 12em;
+}

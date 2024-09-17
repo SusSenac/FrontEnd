@@ -1,0 +1,38 @@
+#container-principal{
+    background-color: rgb(255, 115, 0); /* Define a cor do fundo*/
+    padding: 20px; /* Espeço do lado de dentro*/
+    height: 500px; /* Espaço para de fora*/
+    border: 3px solid #fa0505;
+    border-radius: 10px;
+}
+
+.caixa-simples {
+    background-color: black;
+    color: blue; /* Define a cor da letra*/
+    width: 140px; /* largura*/
+    height: 140px; /*Define altura*/
+    text-align: center; /*define o lugar dele*/
+    line-height: 120px; /*Tamanho do espaçamento das linhas*/
+    border-radius: 7px; /* Fazem as bordas ficarem arredondadas*/
+    margin: 10px;
+}
+
+/*muda a cor de quanndo colacamos o mause em cima */
+.caixa-simples:hover{
+    background-color: #fa0505;
+}
+
+#caixa-diferente {
+    background-color: #fa0505;
+    margin:  10px; /* Espaço do lado de fora*/
+    color: blue;
+    width: 150px;
+    height: 150px;
+    text-align: center; /*Define o lugar dele*/ 
+    line-height: 100px; /*Espaçamento de entre linhas do texto*/
+    border-radius: 10px;
+}
+
+#caixa-diferente:hover {
+    background-color: black;
+}
