@@ -132,3 +132,93 @@ p{
     color: rgb(255, 255, 255);
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
+
+.texto {
+   
+    width: 300px;
+    background-color: #881414;
+    font-family: Verdana, Ganeva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #f5eeee;width: 120px;
+    border-radius: 25px ;
+    padding: 50px;
+    text-align: center;
+    width: 91%;
+}
+
+
+
+#img {
+    width: 300px;
+  
+    background-color: #8a0707;
+    width: 200px;
+    height: 150px;
+    padding: 100px;
+    align-items: center;
+
+    
+}
+
+.imagens {
+    width: 300px;
+    height: 250px;
+    padding: 50px;
+
+    
+    
+}
+
+.banner2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/pexels-pixabay-46798.jpg);
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    color: #000000;
+    height: 500px;
+}
+
+.form-container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(255, 255, 255, 0.589);
+    padding: 20px;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+form {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+label {
+    margin-top: 10px;
+    text-align: left;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color:#000000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #000000;
+}
